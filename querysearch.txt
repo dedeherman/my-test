@@ -1,0 +1,6 @@
+fungsi PHP pengecekan kata sandi
+password validation
+karakter awal string PHP
+find the smallest missing number
+password validation at least 2 symbol
+validasi password regex
