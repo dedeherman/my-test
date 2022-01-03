@@ -1,6 +1,10 @@
+fungsi menampilkan bilangan kelipatan
+fungsi pencarian
 fungsi PHP pengecekan kata sandi
 password validation
 karakter awal string PHP
 find the smallest missing number
 password validation at least 2 symbol
 validasi password regex
+fungsi pengecekan bilangan cacah terkecil yang tidak ada dari data
+yang diinputkan.
